@@ -125,7 +125,7 @@ This project analyzes employees data using SQL to answer questions about employe
 5. Review the analysis results presented in tables.
 
 #### Contributions
-Contributions to this projects are highly encouraged! If you wish to contribute, please follow these guidelines:
+Contributions to this project are highly encouraged! If you wish to contribute, please follow these guidelines:
 
 - Fork the sql-challenge repository and clone it locally.
 - Create a new branch for your feature or bug fix.
