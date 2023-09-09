@@ -11,7 +11,7 @@ A SQL project for analyzing employment data to give insights about employee demo
 <br>
 
 #### Introduction
-This project analyzes employees data using SQL to answer questions about employee demographics, managers, salaries and certain departments.
+This project uses SQL to analyze employees data and answer questions about employee demographics, managers, salaries and certain departments.
 <br>
 
 #### Requirements & Dependencies
